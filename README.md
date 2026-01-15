@@ -1,7 +1,7 @@
 # Turkish Text Preprocessing & Analysis Tool
 Bu proje, Doğal Dil İşleme (NLP) projelerinde veriyi modele hazırlamak için gereken "Ön İşleme" (Preprocessing) adımlarını gerçekleştiren, Python ile yazılmış bir araçtır.
 
-## Amacı
+## Amaç
 Harici bir NLP kütüphanesi (NLTK, Spacy vb.) kullanmadan, temel Python veri yapıları ve algoritmaları ile metin temizliği mantığını göstermek amacıyla geliştirilmiştir.
 
 ## Özellikler
@@ -14,7 +14,7 @@ Bu araç ham bir metni alır ve aşağıdaki işlemleri uygular:
 ## Nasıl Çalışır? 
 
 **Girdi:**
-> "Merhaaba Dünya!"
+"Merhaaba Dünya!"
 
 **Çıktı Raporu:**
 METİN ANALİZ RAPORU
