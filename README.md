@@ -14,9 +14,9 @@ Bu araç ham bir metni alır ve aşağıdaki işlemleri uygular:
 ## Nasıl Çalışır? 
 
 **Girdi:**
-"Merhaaba Dünya!"
+"Merhaba Dünya!"
 
-**Çıktı Raporu:**
+**Çıktı:**
 METİN ANALİZ RAPORU
 Toplam Anlamlı Kelime: 
 Temizlenmiş Liste: ['merhaba', 'dünya'] 
