@@ -17,10 +17,10 @@ Bu araç ham bir metni alır ve aşağıdaki işlemleri uygular:
 "Merhaba Dünya!"
 
 **Çıktı:**
-METİN ANALİZ RAPORU
-Toplam Anlamlı Kelime: 
-Temizlenmiş Liste: ['merhaba', 'dünya'] 
+* METİN ANALİZ RAPORU
+* Toplam Anlamlı Kelime: 2
+* Temizlenmiş Liste: ['merhaba', 'dünya'] 
 
 En Çok Geçen Kelimeler:
-'merhaba': 1 kez
-'dünya': 1 kez
+* 'merhaba': 1 kez
+* 'dünya': 1 kez
